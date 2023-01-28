@@ -60,18 +60,19 @@
 </head>
 <body>
   <div class="row">
-      <a href="img1.jpg"target="img1.jpg"><img src="1.jpg" alt="Image 1"></a>
-      <a href="img2.jpg"target="img2.jpg"><img src="2.jpg" alt="Image 2"></a>
-      <a href="img3.jpg"target="img3.jpg"><img src="3.jpg" alt="Image 3"></a>
-      <a href="img4.jpg"target="img4.jpg"><img src="4.jpg" alt="Image 4"></a>
-      <a href="img5.jpg"target="img5.jpg"><img src="5.jpg" alt="Image 5"></a>
+       
+    <img src="1.jpg" alt="Image 1">
+    <img src="2.jpg" alt="Image 2">
+    <img src="3.jpg" alt="Image 3">
+    <img src="4.jpg" alt="Image 4">
+    <img src="5.jpg" alt="Image 5">
   </div>
   <div class="row">
-      <a href="img6.jpg"target="img6.jpg"><img src="6.jpg" alt="Image 6"></a>
-      <a href="img7.jpg"target="img7.jpg"><img src="7.jpg" alt="Image 7"></a>
-      <a href="img8.jpg"target="img8.jpg"><img src="8.jpg" alt="Image 8"></a>
-      <a href="img9.jpg"target="img9.jpg"><img src="9.jpg" alt="Image 9"></a>
-      <a href="img10.jpg"target="img10.jpg"><img src="10.jpg" alt="Image 10"></a>
+    <img src="6.jpg" alt="Image 6">
+    <img src="7.jpg" alt="Image 7">
+    <img src="8.jpg" alt="Image 8">
+    <img src="9.jpg" alt="Image 9">
+    <img src="10.jpg" alt="Image 10">
       <div class="text">
         <text>PHOTOGALLERY</text>
       
