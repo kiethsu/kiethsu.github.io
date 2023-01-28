@@ -59,20 +59,21 @@
   </style>
 </head>
 <body>
-  <div class="row">
-       
-    <img src="1.jpg" alt="Image 1">
-    <img src="2.jpg" alt="Image 2">
-    <img src="3.jpg" alt="Image 3">
-    <img src="4.jpg" alt="Image 4">
-    <img src="5.jpg" alt="Image 5">
+ <div class="row">
+    <img src="1.jpg" alt="Image 1" onclick="window.location='1.jpg';">
+    <img src="2.jpg" alt="Image 2" onclick="window.location='2.jpg';">
+    <img src="3.jpg" alt="Image 3" onclick="window.location='3.jpg';">
+    <img src="4.jpg" alt="Image 4" onclick="window.location='4.jpg';">
+    <img src="5.jpg" alt="Image 5" onclick="window.location='5.jpg';">
+
   </div>
   <div class="row">
-    <img src="6.jpg" alt="Image 6">
-    <img src="7.jpg" alt="Image 7">
-    <img src="8.jpg" alt="Image 8">
-    <img src="9.jpg" alt="Image 9">
-    <img src="10.jpg" alt="Image 10">
+   <img src="6.jpg" alt="Image 6" onclick="window.location='6.jpg';">
+   <img src="7.jpg" alt="Image 7" onclick="window.location='7.jpg';">
+   <img src="8.jpg" alt="Image 8" onclick="window.location='8.jpg';">
+   <img src="9.jpg" alt="Image 9" onclick="window.location='9.jpg';">    
+   <img src="10.jpg" alt="Image 10" onclick="window.location='10.jpg';">    
+
       <div class="text">
         <text>PHOTOGALLERY</text>
       
